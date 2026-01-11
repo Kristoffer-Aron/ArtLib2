@@ -1,0 +1,6 @@
+@ArtREST_HostAddress = http://localhost:5118
+
+GET {{ArtREST_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
